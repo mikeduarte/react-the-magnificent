@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-the-magnificent/static/css/main.127c7d8a.css",
+    "main.js": "/react-the-magnificent/static/js/main.b6481dee.js",
+    "index.html": "/react-the-magnificent/index.html",
+    "main.127c7d8a.css.map": "/react-the-magnificent/static/css/main.127c7d8a.css.map",
+    "main.b6481dee.js.map": "/react-the-magnificent/static/js/main.b6481dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.127c7d8a.css",
+    "static/js/main.b6481dee.js"
+  ]
+}
