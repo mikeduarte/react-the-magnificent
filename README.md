@@ -1,3 +1,6 @@
+## Play Wordle Right Now:
+https://mikeduarte.github.io/react-the-magnificen
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
