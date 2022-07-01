@@ -1,5 +1,5 @@
-## Play Wordle Right Now:
-https://mikeduarte.github.io/react-the-magnificen
+## See if React the Magnificent Can Read Your Mind:
+https://mikeduarte.github.io/react-the-magnificent
 
 # Getting Started with Create React App
 
